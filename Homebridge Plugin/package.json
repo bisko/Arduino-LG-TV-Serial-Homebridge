@@ -1,0 +1,22 @@
+{
+	"name": "homebridge-lg-tv",
+	"version": "1.0.0",
+	"description": "Homebridge plugin for remote controlling an LG TV",
+	"main": "index.js",
+	"author": "Biser Perchinkov",
+	"license": "GPLv2",
+	"private": false,
+	"dependencies": {
+		"async": "^2.6.0",
+		"lodash": "^4.17.10",
+		"request": "^2.85.0",
+		"timed-memoize": "^2.3.0"
+	},
+	"keywords": [
+		"homebridge-plugin"
+	],
+	"engines": {
+		"node": ">=0.12.0",
+		"homebridge": ">=0.2.0"
+	}
+}

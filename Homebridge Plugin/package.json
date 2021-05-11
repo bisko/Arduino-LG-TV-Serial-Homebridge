@@ -8,7 +8,7 @@
 	"private": false,
 	"dependencies": {
 		"async": "^2.6.0",
-		"lodash": "^4.17.10",
+		"lodash": "^4.17.21",
 		"request": "^2.85.0",
 		"timed-memoize": "^2.3.0"
 	},

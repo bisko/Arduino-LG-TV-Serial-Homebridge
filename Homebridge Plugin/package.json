@@ -7,7 +7,7 @@
 	"license": "GPLv2",
 	"private": false,
 	"dependencies": {
-		"async": "^2.6.0",
+		"async": "^2.6.4",
 		"lodash": "^4.17.10",
 		"request": "^2.85.0",
 		"timed-memoize": "^2.3.0"
